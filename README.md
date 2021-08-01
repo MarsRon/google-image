@@ -1,12 +1,12 @@
-# google-image
+# @marsron/google-image
 
-[![Build status](https://travis-ci.org/MarsRon/google-image.svg?branch=main)](https://travis-ci.org/MarsRon/google-image "Build status")
+[![Build status](https://travis-ci.com/MarsRon/google-image.svg?branch=main)](https://travis-ci.com/MarsRon/google-image "Build status")
 
 Another Google Image Search NodeJS module. The nature of these things is that they eventually break as GIS changes, but this one works as of August 1st 2021.
 
 ## Installation
 
-Install `google-image` with npm
+Install `@marsron/google-image` with npm
 
 ```sh
 npm install @marsron/google-image
@@ -15,7 +15,7 @@ npm install @marsron/google-image
 ## Usage / Examples
 
 ```js
-const googleImage = require('google-image')
+const googleImage = require('@marsron/google-image')
 
 googleImage('cats')
   .then(results => {

@@ -4,8 +4,7 @@
   "description": "Google Image Search",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon",
-    "test": "echo work in progress"
+    "test": "nodemon basictest.js"
   },
   "repository": {
     "type": "git",

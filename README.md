@@ -1,7 +1,5 @@
 # @marsron/google-image
 
-[![Build status](https://travis-ci.com/MarsRon/google-image.svg?branch=main)](https://travis-ci.com/MarsRon/google-image "Build status")
-
 Another Google Image Search NodeJS module. The nature of these things is that they eventually break as GIS changes, but this one works as of August 1st 2021.
 
 ## Installation
